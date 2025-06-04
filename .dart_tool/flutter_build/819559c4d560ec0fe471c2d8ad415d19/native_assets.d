@@ -1,0 +1,1 @@
+ /Users/junaid/Desktop/light_switch/.dart_tool/flutter_build/819559c4d560ec0fe471c2d8ad415d19/native_assets.yaml: 
