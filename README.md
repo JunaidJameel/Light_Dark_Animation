@@ -27,7 +27,6 @@ A beautiful and interactive Flutter UI that switches between **Day** and **Night
 <img src="https://github.com/user-attachments/assets/f7d3894b-e49b-42bf-bb52-a4011905b488" width="200" height="400" alt="Light Mode Animation"/>
 
 
----
 
 ## 📜 License
 
