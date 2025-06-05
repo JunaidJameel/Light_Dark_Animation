@@ -31,7 +31,7 @@ A beautiful and interactive Flutter UI that switches between **Day** and **Night
 
 ## 📜 License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License. See the [LICENSE].
 
 ---
 
