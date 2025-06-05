@@ -9,7 +9,7 @@ A beautiful and interactive Flutter UI that switches between **Day** and **Night
 - 🔄 Toggle between light and dark modes
 - 🎞️ Smooth Lottie animation synced with theme change
 - ⚡ Responsive UI with animated power button
-- 🎨 Custom gradients and styling for day/night themes
+- 🎨 Custom styling for day/night themes
 - ✋ Lottie animation auto-pauses at exact visual transition points
 
 ---
