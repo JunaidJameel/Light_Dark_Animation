@@ -1,3 +1,3 @@
 <h3>🌗 Light & Dark Switch Animation</h3>
 
-<img src="https://i.pinimg.com/736x/d8/c4/2c/d8c42c3318fe41e955ed66baa0c41f5e.jpg" width="200" height="400" alt="Light Mode Animation"/>
+<img src="https://github.com/user-attachments/assets/e5267117-38c0-4a51-9be9-dc7255d480a0" width="200" height="400" alt="Light Mode Animation"/>
