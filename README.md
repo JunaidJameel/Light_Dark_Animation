@@ -41,8 +41,7 @@ This project is licensed under the MIT License. See the [LICENSE].
 
 <p align="left">
   <a href="https://github.com/JunaidJameel"><img src="https://img.shields.io/badge/GitHub-Follow-blue?logo=github" alt="GitHub Follow"/></a>
-  <a href="https://www.instagram.com/junaid_jamel/?igsh=YW44MGk4OHQ5M2Mx"><img src="https://img.shields.io/badge/Instagram-Follow-e4405f?logo=instagram" alt="Instagram"/></a>
-  <a href="https://www.youtube.com/@JunaidJameel"><img src="https://img.shields.io/badge/YouTube-Subscribe-ff0000?logo=youtube" alt="LinkedIn"/></a>
+  <a href="https://www.instagram.com/junaid_jamel/?igsh=YW44MGk4OHQ5M2Mx"><img src="https://img.shields.io/badge/Instagram-Follow-e4405f? <a href="https://www.linkedin.com/in/junaidjameel"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?logo=linkedin" alt="LinkedIn"/></a>alt="LinkedIn"/></a>
 </p>
 
 If you liked this project, consider giving it a ⭐ and sharing it with others.
