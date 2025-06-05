@@ -1,16 +1,6 @@
-# light_switch
+Light & Dark Switch Animation
 
-A new Flutter project.
 
-## Getting Started
+![28352074-611f-4019-8686-28210c0cf8d7](https://github.com/user-attachments/assets/9bdd9f59-268f-480b-a3bc-0cc7864c7ed6)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![51ec7ae4-f5c1-467e-a9d7-4a7861852058](https://github.com/user-attachments/assets/0e6173bc-193f-4574-9a92-66d39e6885a9)
